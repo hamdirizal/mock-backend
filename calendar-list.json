@@ -1,0 +1,29 @@
+{
+  "count": 20,
+  "items": [
+    {
+      "id": 100,
+      "title": "My Calendar",
+      "description": "This is a calendar",
+      "url": "poplar.money/cashflow/100e74"
+    },
+    {
+      "id": 101,
+      "title": "Second Calendar",
+      "description": "This is my second calendar",
+      "url": "poplar.money/cashflow/101e74"
+    },
+    {
+      "id": 102,
+      "title": "Third Calendar",
+      "description": "This is my third calendar",
+      "url": "poplar.money/cashflow/102e74"
+    },
+    {
+      "id": 104,
+      "title": "Another calendar",
+      "description": "Just another calendar",
+      "url": "poplar.money/cashflow/103e74"
+    }
+  ]
+}
